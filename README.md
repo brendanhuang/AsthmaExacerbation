@@ -9,7 +9,7 @@ Setting up project:
     b) source <path_new_pyvenv>/bin/activate  
     c) pip install -r requirements.txt  
     d) pip install ipython  
-    e) ipython kernel install --user --name=<envname>  
+    e) ipython kernel install --user --name = <envname>  
   
 2) Install ODBC - see Install_ODBC.docx for instructions  
 3) Open notebooks/DEID_CDW_SimpleQuery.ipynb in Jupyterlab interface  
