@@ -4,15 +4,15 @@ AsthmaExacerbation
 Query DEID-CDW for Asthma Exacerbations
 
 Setting up project:
-1) Create a virtual environment and link it to your Jupyter Lab environment:
-    a) python -m venv <path_new_pyvenv>
-    b) source <path_new_pyvenv>/bin/activate
-    c) pip install -r requirements.txt
-    d) pip install ipython
-    e) ipython kernel install --user --name=<envname>
-
-2) Install ODBC - see Install_ODBC.docx for instructions
-3) Open notebooks/DEID_CDW_SimpleQuery.ipynb in Jupyterlab interface
+1) Create a virtual environment and link it to your Jupyter Lab environment:  
+    a) python -m venv <path_new_pyvenv>  
+    b) source <path_new_pyvenv>/bin/activate  
+    c) pip install -r requirements.txt  
+    d) pip install ipython  
+    e) ipython kernel install --user --name=<envname>  
+  
+2) Install ODBC - see Install_ODBC.docx for instructions  
+3) Open notebooks/DEID_CDW_SimpleQuery.ipynb in Jupyterlab interface  
 
    
 
